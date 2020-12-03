@@ -1,0 +1,1 @@
+web: gunicorn Vivah_Studio.wsgi
